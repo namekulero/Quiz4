@@ -4,6 +4,7 @@ import src.main.java.com.todo.model.Model;
 
 public class TaskController {
     private Model model = new Model();
+    // Creación del Model
     
     public void createTask(String title, String description) {
         model.addTask(title, description);
