@@ -1,0 +1,4 @@
+src\main\java\com\todo\model\Model.class
+src\main\java\com\todo\controller\TaskController.class
+src\main\java\com\todo\view\ConsoleView.class
+src\main\java\com\todo\model\Task.class
